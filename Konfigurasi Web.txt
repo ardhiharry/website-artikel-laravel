@@ -1,0 +1,9 @@
+Website Name: ArdhiHarryBlog
+Password: CK*OCgZEU(LMOHun!bKG
+
+================================
+
+DB Name: id18826412_ardhi_blog	
+DB Username: id18826412_ardhi
+DB Host: localhost
+DB Password: *N\B&0@DbM|cE-2c
